@@ -12,7 +12,7 @@ Preview
 
 ### Screenshot
 
-![CoolAdmin admin dashboard template preview](media/9606031aabebde32fa96edeff071a132.jpg)
+![CoolAdmin admin dashboard template preview](static/media/9606031aabebde32fa96edeff071a132.jpg)
 
 CoolAdmin admin dashboard template preview
 
